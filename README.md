@@ -41,7 +41,7 @@ http response code
 
 ## Config
 
-Apon first running the server, it will generate a file named config.json if one does
+Upon first running the server, it will generate a file named config.json if one does
 not exist in the same directory as the server executable. You can alter this json
 file to change the configuration of the server and your changes will not be overwritten
 keep in mind that in order for config changes to take affect you will need to restart 
